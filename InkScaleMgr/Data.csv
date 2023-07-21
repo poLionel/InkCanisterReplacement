@@ -1,0 +1,309 @@
+Color, Current weight, Previous weight, Status, Error
+
+Black,12.00,0.00,New Canister,No Error
+Cyan,12.00,0.00,New Canister,No Error
+Magenta,12.00,0.00,New Canister,No Error
+Orange,12.00,0.00,New Canister,No Error
+Purple,12.00,0.00,New Canister,No Error
+White,12.00,0.00,New Canister,No Error
+Yellow,12.00,0.00,New Canister,No Error
+
+
+Black,11.72,12.00,Current Canister,No Error
+Cyan,11.67,12.00,Current Canister,No Error
+Magenta,11.78,12.00,Current Canister,No Error
+Orange,11.79,12.00,Current Canister,No Error
+Purple,11.79,12.00,Current Canister,No Error
+White,11.69,12.00,Current Canister,No Error
+Yellow,11.68,12.00,Current Canister,No Error
+
+
+Black,11.43,11.72,Current Canister,No Error
+Cyan,11.23,11.67,Current Canister,No Error
+Magenta,11.52,11.78,Current Canister,No Error
+Orange,11.33,11.79,Current Canister,No Error
+Purple,11.57,11.79,Current Canister,No Error
+White,11.21,11.69,Current Canister,No Error
+Yellow,11.22,11.68,Current Canister,No Error
+
+
+Black,10.99,11.43,Current Canister,No Error
+Cyan,10.92,11.23,Current Canister,No Error
+Magenta,11.06,11.52,Current Canister,No Error
+Orange,10.92,11.33,Current Canister,No Error
+Purple,11.34,11.57,Current Canister,No Error
+White,10.89,11.21,Current Canister,No Error
+Yellow,10.94,11.22,Current Canister,No Error
+
+
+Black,10.63,10.99,Current Canister,No Error
+Cyan,10.57,10.92,Current Canister,No Error
+Magenta,10.63,11.06,Current Canister,No Error
+Orange,10.69,10.92,Current Canister,No Error
+Purple,10.96,11.34,Current Canister,No Error
+White,10.63,10.89,Current Canister,No Error
+Yellow,10.52,10.94,Current Canister,No Error
+
+
+Black,10.30,10.63,Current Canister,No Error
+Cyan,10.09,10.57,Current Canister,No Error
+Magenta,10.38,10.63,Current Canister,No Error
+Orange,10.48,10.69,Current Canister,No Error
+Purple,10.56,10.96,Current Canister,No Error
+White,10.29,10.63,Current Canister,No Error
+Yellow,10.07,10.52,Current Canister,No Error
+
+
+Black,10.08,10.30,Current Canister,No Error
+Cyan,9.88,10.09,Current Canister,No Error
+Magenta,10.11,10.38,Current Canister,No Error
+Orange,10.09,10.48,Current Canister,No Error
+Purple,10.23,10.56,Current Canister,No Error
+White,9.97,10.29,Current Canister,No Error
+Yellow,9.72,10.07,Current Canister,No Error
+
+
+Black,10.08,10.08,Current Canister,No Error
+Cyan,9.88,9.88,Current Canister,No Error
+Magenta,10.11,10.11,Current Canister,No Error
+Orange,10.09,10.09,Current Canister,No Error
+Purple,10.23,10.23,Current Canister,No Error
+White,9.97,9.97,Current Canister,No Error
+Yellow,9.72,9.72,Current Canister,No Error
+
+
+Black,9.58,10.08,Current Canister,No Error
+Cyan,9.53,9.88,Current Canister,No Error
+Magenta,9.70,10.11,Current Canister,No Error
+Orange,9.88,10.09,Current Canister,No Error
+Purple,9.97,10.23,Current Canister,No Error
+White,9.49,9.97,Current Canister,No Error
+Yellow,9.23,9.72,Current Canister,No Error
+
+
+Black,9.28,9.58,Current Canister,No Error
+Cyan,9.21,9.53,Current Canister,No Error
+Magenta,9.27,9.70,Current Canister,No Error
+Orange,9.59,9.88,Current Canister,No Error
+Purple,9.71,9.97,Current Canister,No Error
+White,9.01,9.49,Current Canister,No Error
+Yellow,8.77,9.23,Current Canister,No Error
+
+
+Black,8.80,9.28,Current Canister,No Error
+Cyan,8.82,9.21,Current Canister,No Error
+Magenta,8.78,9.27,Current Canister,No Error
+Orange,9.15,9.59,Current Canister,No Error
+Purple,9.21,9.71,Current Canister,No Error
+White,8.52,9.01,Current Canister,No Error
+Yellow,8.32,8.77,Current Canister,No Error
+
+
+Black,8.46,8.80,Current Canister,No Error
+Cyan,8.49,8.82,Current Canister,No Error
+Magenta,8.53,8.78,Current Canister,No Error
+Orange,8.93,9.15,Current Canister,No Error
+Purple,8.99,9.21,Current Canister,No Error
+White,8.15,8.52,Current Canister,No Error
+Yellow,7.92,8.32,Current Canister,No Error
+
+
+Black,7.98,8.46,Current Canister,No Error
+Cyan,8.28,8.49,Current Canister,No Error
+Magenta,8.22,8.53,Current Canister,No Error
+Orange,8.47,8.93,Current Canister,No Error
+Purple,8.69,8.99,Current Canister,No Error
+White,7.94,8.15,Current Canister,No Error
+Yellow,7.70,7.92,Current Canister,No Error
+
+
+Black,7.98,7.98,Current Canister,No Error
+Cyan,8.28,8.28,Current Canister,No Error
+Magenta,8.22,8.22,Current Canister,No Error
+Orange,8.47,8.47,Current Canister,No Error
+Purple,8.69,8.69,Current Canister,No Error
+White,7.94,7.94,Current Canister,No Error
+Yellow,7.70,7.70,Current Canister,No Error
+
+
+Black,7.54,7.98,Current Canister,No Error
+Cyan,7.93,8.28,Current Canister,No Error
+Magenta,7.81,8.22,Current Canister,No Error
+Orange,8.07,8.47,Current Canister,No Error
+Purple,8.28,8.69,Current Canister,No Error
+White,7.53,7.94,Current Canister,No Error
+Yellow,7.26,7.70,Current Canister,No Error
+
+
+Black,7.04,7.54,Current Canister,No Error
+Cyan,7.45,7.93,Current Canister,No Error
+Magenta,7.37,7.81,Current Canister,No Error
+Orange,7.67,8.07,Current Canister,No Error
+Purple,7.89,8.28,Current Canister,No Error
+White,7.12,7.53,Current Canister,No Error
+Yellow,7.00,7.26,Current Canister,No Error
+
+
+Black,6.70,7.04,Current Canister,No Error
+Cyan,7.24,7.45,Current Canister,No Error
+Magenta,6.95,7.37,Current Canister,No Error
+Orange,7.22,7.67,Current Canister,No Error
+Purple,7.63,7.89,Current Canister,No Error
+White,6.90,7.12,Current Canister,No Error
+Yellow,6.57,7.00,Current Canister,No Error
+
+
+Black,6.47,6.70,Current Canister,No Error
+Cyan,6.79,7.24,Current Canister,No Error
+Magenta,6.61,6.95,Current Canister,No Error
+Orange,6.89,7.22,Current Canister,No Error
+Purple,7.14,7.63,Current Canister,No Error
+White,6.45,6.90,Current Canister,No Error
+Yellow,6.36,6.57,Current Canister,No Error
+
+
+Black,6.19,6.47,Current Canister,No Error
+Cyan,6.58,6.79,Current Canister,No Error
+Magenta,6.16,6.61,Current Canister,No Error
+Orange,6.51,6.89,Current Canister,No Error
+Purple,6.89,7.14,Current Canister,No Error
+White,6.19,6.45,Current Canister,No Error
+Yellow,5.96,6.36,Current Canister,No Error
+
+
+Black,6.19,6.19,Current Canister,No Error
+Cyan,6.58,6.58,Current Canister,No Error
+Magenta,6.16,6.16,Current Canister,No Error
+Orange,6.51,6.51,Current Canister,No Error
+Purple,6.89,6.89,Current Canister,No Error
+White,6.19,6.19,Current Canister,No Error
+Yellow,5.96,5.96,Current Canister,No Error
+
+
+Black,5.79,6.19,Current Canister,No Error
+Cyan,6.09,6.58,Current Canister,No Error
+Magenta,5.96,6.16,Current Canister,No Error
+Orange,6.14,6.51,Current Canister,No Error
+Purple,6.56,6.89,Current Canister,No Error
+White,5.70,6.19,Current Canister,No Error
+Yellow,5.73,5.96,Current Canister,No Error
+
+
+Black,5.54,5.79,Current Canister,No Error
+Cyan,5.59,6.09,Current Canister,No Error
+Magenta,5.72,5.96,Current Canister,No Error
+Orange,5.68,6.14,Current Canister,No Error
+Purple,6.14,6.56,Current Canister,No Error
+White,5.37,5.70,Current Canister,No Error
+Yellow,5.45,5.73,Current Canister,No Error
+
+
+Black,5.05,5.54,Current Canister,No Error
+Cyan,5.25,5.59,Current Canister,No Error
+Magenta,5.23,5.72,Current Canister,No Error
+Orange,5.47,5.68,Current Canister,No Error
+Purple,5.73,6.14,Current Canister,No Error
+White,5.01,5.37,Current Canister,No Error
+Yellow,5.08,5.45,Current Canister,No Error
+
+
+Black,4.56,5.05,Current Canister,No Error
+Cyan,4.89,5.25,Current Canister,No Error
+Magenta,4.98,5.23,Current Canister,No Error
+Orange,5.15,5.47,Current Canister,No Error
+Purple,5.25,5.73,Current Canister,No Error
+White,4.51,5.01,Current Canister,No Error
+Yellow,4.68,5.08,Current Canister,No Error
+
+
+Black,4.32,4.56,Current Canister,No Error
+Cyan,4.44,4.89,Current Canister,No Error
+Magenta,4.64,4.98,Current Canister,No Error
+Orange,4.71,5.15,Current Canister,No Error
+Purple,4.77,5.25,Current Canister,No Error
+White,4.29,4.51,Current Canister,No Error
+Yellow,4.32,4.68,Current Canister,No Error
+
+
+Black,3.87,4.32,Current Canister,No Error
+Cyan,3.96,4.44,Current Canister,No Error
+Magenta,4.22,4.64,Current Canister,No Error
+Orange,4.33,4.71,Current Canister,No Error
+Purple,4.31,4.77,Current Canister,No Error
+White,3.90,4.29,Current Canister,No Error
+Yellow,3.97,4.32,Current Canister,No Error
+
+
+Black,3.87,3.87,Current Canister,No Error
+Cyan,3.96,3.96,Current Canister,No Error
+Magenta,4.22,4.22,Current Canister,No Error
+Orange,4.33,4.33,Current Canister,No Error
+Purple,4.31,4.31,Current Canister,No Error
+White,3.90,3.90,Current Canister,No Error
+Yellow,3.97,3.97,Current Canister,No Error
+
+
+Black,3.57,3.87,Current Canister,No Error
+Cyan,3.69,3.96,Current Canister,No Error
+Magenta,3.86,4.22,Current Canister,No Error
+Orange,4.08,4.33,Current Canister,No Error
+Purple,4.07,4.31,Current Canister,No Error
+White,3.54,3.90,Current Canister,No Error
+Yellow,3.73,3.97,Current Canister,No Error
+
+
+Black,3.23,3.57,Current Canister,No Error
+Cyan,3.24,3.69,Current Canister,No Error
+Magenta,3.44,3.86,Current Canister,No Error
+Orange,3.83,4.08,Current Canister,No Error
+Purple,3.81,4.07,Current Canister,No Error
+White,3.09,3.54,Current Canister,No Error
+Yellow,3.52,3.73,Current Canister,No Error
+
+
+Black,2.85,3.23,Current Canister,No Error
+Cyan,2.77,3.24,Current Canister,No Error
+Magenta,3.05,3.44,Current Canister,No Error
+Orange,3.41,3.83,Current Canister,No Error
+Purple,3.57,3.81,Current Canister,No Error
+White,2.87,3.09,Current Canister,No Error
+Yellow,3.16,3.52,Current Canister,No Error
+
+
+Black,2.36,2.85,Current Canister,No Error
+Cyan,2.38,2.77,Current Canister,No Error
+Magenta,2.75,3.05,Current Canister,No Error
+Orange,3.06,3.41,Current Canister,No Error
+Purple,3.09,3.57,Current Canister,No Error
+White,2.60,2.87,Current Canister,No Error
+Yellow,2.71,3.16,Current Canister,No Error
+
+
+Black,1.90,2.36,Current Canister,No Error
+Cyan,2.09,2.38,Current Canister,No Error
+Magenta,2.48,2.75,Current Canister,No Error
+Orange,2.62,3.06,Current Canister,No Error
+Purple,2.82,3.09,Current Canister,No Error
+White,2.12,2.60,Current Canister,No Error
+Yellow,2.40,2.71,Current Canister,No Error
+
+
+Black,1.90,1.90,Current Canister,No Error
+Cyan,2.09,2.09,Current Canister,No Error
+Magenta,2.48,2.48,Current Canister,No Error
+Orange,2.62,2.62,Current Canister,No Error
+Purple,2.82,2.82,Current Canister,No Error
+White,2.12,2.12,Current Canister,No Error
+Yellow,2.40,2.40,Current Canister,No Error
+
+
+Black,1.54,1.90,Current Canister,No Error
+Cyan,1.65,2.09,Current Canister,No Error
+Magenta,2.16,2.48,Current Canister,No Error
+Orange,2.40,2.62,Current Canister,No Error
+Purple,2.37,2.82,Current Canister,No Error
+White,1.66,2.12,Current Canister,No Error
+Yellow,2.17,2.40,Current Canister,No Error
+
+Black,1.090000,1.540000,Error,Empty Canister
+
